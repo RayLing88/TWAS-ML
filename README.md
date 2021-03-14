@@ -1,5 +1,5 @@
 # <center>**TWAS-ML**: An integrated R toolkit for plant transcriptome-wide association study</center>
-<img src="https://github.com/RayLing88/TWAS-ML/blob/main/image/combine.png" title="R logo" style="zoom:50%;" /> 
+<img src="https://github.com/RayLing88/TWAS-ML/blob/main/image/combine.png" title="R logo" width="300" height="150" /> 
 
 
 ### Brief introduction
