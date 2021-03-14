@@ -1,5 +1,5 @@
 # <center>**TWAS-ML**: An integrated R toolkit for plant transcriptome-wide association study</center>
-<img src="image/r_logo.jpg" title="R logo" style="zoom:50%;" />
+<img src="https://github.com/RayLing88/TWAS-ML/main/image/r_logo.jpg" title="R logo" style="zoom:50%;" />
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 
 ### Brief introduction
@@ -83,7 +83,7 @@ TWASDataQC <- TWASDataQC(markers = markers,geneExp = geneExp,impute = F,
 ### Machine learning model building
 
 - keep high heritable genes for next-step ML model building
-- this function is from FUSION software (Gusev et al. 2016)
+- this function is from FUSION software (Gusev et al., 2016)
 
 ```R
 # 01 heritablity analysis of gene expression
@@ -104,7 +104,7 @@ runMahineLearn(phenoVec = phenoVec,phenotypes = phenotypes,
 ### Association
 
 - this module can perfom association study based on individual-level or summary statistics
-- this module input file format is just like [PrediXcan software](https://github.com/hakyim/PrediXcan/tree/master/Software) (Gamazon et al. 2015)
+- this module input file format is just like [PrediXcan software](https://github.com/hakyim/PrediXcan/tree/master/Software) (Gamazon et al., 2015)
 
 ```R
 #  individual-level association
@@ -132,22 +132,23 @@ Rscript 02_Association_summary.R \
 
 - this module can also visualize TWAS result
 
-   ![](image/manhatan.png 'manhatan plot')
+   ![](https://github.com/RayLing88/TWAS-ML/main/image/manhatan.png 'manhatan plot')
 
-- locus zoom plot 
+- locus zoom plot (Zhu et al., 2016)
 
-  ![](image/locus_zoom.png 'locus zoom')
+  ![](https://github.com/RayLing88/TWAS-ML/main/image/locus_zoom.png 'locus zoom')
 
 ### Source codes availability
 
    The source codes of TWAS-ML are freely available at [TWAS-ML](<https://github.com/RayLing88/TWAS-ML>)
 ### How to access help
 * If users encounter any bugs or issues, feel free to leave a message at Github [issues](<https://github.com/cma2015/PEA/issues>). We will try our best to deal with all issues as soon as possible.
-* In addition, if any suggestions are available, feel free to contact: __Lei Ling__ <linglei@nwafu.edu.cn> or ___Ma Chuang___ <chuangma2006@gmail.com>
+* In addition, if any suggestions are available, feel free to contact: __*Lei Ling*__ <linglei@nwafu.edu.cn> or __*Chuang Ma*___ <chuangma2006@gmail.com>
 
 ### References
   * Gusev, A., Ko, A., Shi, H. *et al.* Integrative approaches for large-scale transcriptome-wide association studies. *Nat Genet* **48,** 245–252 (2016). https://doi.org/10.1038/ng.3506
   *  Gamazon, E., Wheeler, H., Shah, K. *et al.* A gene-based association method for mapping traits using reference transcriptome data. *Nat Genet* **47,** 1091–1098 (2015). https://doi.org/10.1038/ng.3367
+  * Zhu, Z., Zhang, F., Hu, H. *et al.* Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets. *Nat Genet* **48,** 481–487 (2016). https://doi.org/10.1038/ng.3538
 ### Citation
 Ling, L., Ma W., Zhang, X., Cheng, Q., Miao, Z., & Ma, C. **TWAS-ML: an integrated R toolkit for plant transcriptome-wide association study.**
 
