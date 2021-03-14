@@ -1,6 +1,5 @@
 # <center>**TWAS-ML**: An integrated R toolkit for plant transcriptome-wide association study</center>
-<img src="https://github.com/RayLing88/TWAS-ML/main/image/r_logo.jpg" title="R logo" style="zoom:50%;" />
-![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
+<img src="https://github.com/RayLing88/TWAS-ML/tree/main/image/combine.png" title="R logo" style="zoom:50%;" />
 
 ### Brief introduction
 TWAS-ML is a machine learning-based integrated R toolkit that aims to perfom the plant transcriptome -wide association study (TWAS). This toolkit contains a comprehensive collection of functions required for TWAS data quality control, simulation study, gene expression predictive model building, association study, visualizing for TWAS result. TWAS-ML also takes advantage of machine learning technologies for gene expression levels prediction, with high prediction accuracy, using several ML algorithm such as random forest (RF), support vector machine (SVM), and neural network (NN). 
@@ -14,8 +13,8 @@ TWAS-ML is a machine learning-based integrated R toolkit that aims to perfom the
 [TWAS simulation study](#twas-simulation-study)
 
 - Genetic model (additive, dominant, recessive)
-- Heritability of gene expression ($he^2$)
-- Heritablity of trait ($hg^2$) 
+- Heritability of gene expression
+- Heritablity of trait  
 - SNP effect size
 
 [Machine learning model building](#machine-learning-model-building)
@@ -47,7 +46,7 @@ TWAS-ML is a machine learning-based integrated R toolkit that aims to perfom the
 ```R
 # Loading TWAS data for quality control
 cd 01_TWAS_Data_QC/
-source(01_TWAS_Data_QC.R)
+source("01_TWAS_Data_QC.R")
 
 TWASDataQC <- TWASDataQC(markers = markers,geneExp = geneExp,impute = F,
                         phenotype = phenotype)
@@ -132,11 +131,11 @@ Rscript 02_Association_summary.R \
 
 - this module can also visualize TWAS result
 
-   ![](https://github.com/RayLing88/TWAS-ML/main/image/manhatan.png 'manhatan plot')
+   ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/manhatan.png 'manhatan plot')
 
 - locus zoom plot (Zhu et al., 2016)
 
-  ![](https://github.com/RayLing88/TWAS-ML/main/image/locus_zoom.png 'locus zoom')
+  ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/locus_zoom.png 'locus zoom')
 
 ### Source codes availability
 
