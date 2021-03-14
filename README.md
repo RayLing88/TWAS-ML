@@ -1,5 +1,6 @@
 # <center>**TWAS-ML**: An integrated R toolkit for plant transcriptome-wide association study</center>
-![](https://github.com/RayLing88/TWAS-ML/blob/main/image/combine.png 'manhatan plot')
+<img src="https://github.com/RayLing88/TWAS-ML/blob/main/image/combine.png" title="R logo" style="zomm:50%;" /> 
+
 
 ### Brief introduction
 TWAS-ML is a machine learning-based integrated R toolkit that aims to perfom the plant transcriptome -wide association study (TWAS). This toolkit contains a comprehensive collection of functions required for TWAS data quality control, simulation study, gene expression predictive model building, association study, visualizing for TWAS result. TWAS-ML also takes advantage of machine learning technologies for gene expression levels prediction, with high prediction accuracy, using several ML algorithm such as random forest (RF), support vector machine (SVM), and neural network (NN). 
