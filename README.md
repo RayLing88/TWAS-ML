@@ -131,11 +131,11 @@ Rscript 02_Association_summary.R \
 
 - this module can also visualize TWAS result
 
-   ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/manhatan.png 'manhatan plot')
+   ![](https://github.com/RayLing88/TWAS-ML/blob/main/image/manhatan.png 'manhatan plot')
 
 - locus zoom plot (Zhu et al., 2016)
 
-  ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/locus_zoom.png 'locus zoom')
+  ![](https://github.com/RayLing88/TWAS-ML/blob/main/image/locus_zoom.png 'locus zoom')
 
 ### Source codes availability
 
