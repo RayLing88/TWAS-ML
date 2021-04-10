@@ -75,9 +75,25 @@ TWASDataQC <- TWASDataQC(markers = markers,geneExp = geneExp,impute = F,
   | 1    | 50877 | 55716 | -      | PCG  | *Zm00001d027231* |
 
 - PATH_PLINK: the path of PLINK software; PATH_GEMMA: the path of GEMMA software
+
 - geno: genotype data with PLINK format (.bed, .bim, .fam)
+
 - window_size: cis SNP (x-kb window for a gene)
+
 - hg2, he2, eff, Gmodel were simualted parameters for generating simualtied gene expression data and phenotype data
+
+- The output of this module is like the following table
+
+- | Gmodel   | hg2  | he2​  | ncau | eff  | *p_bslmm* | *p_smr* | *p_rf* | *p_svm* | *p_nn* | *p_lasso* |      |      |      |      |      |      |
+  | -------- | ---- | ---- | ---- | ---- | --------- | ------- | ------ | ------- | ------ | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
+  | Additive | 0.5  | 0.5  | 1    | 0.3  | 0.38      | 0.25    | 0.03   | 0.01    | 0.02   | 0.04      |      |      |      |      |      |      |
+  | Additive | 0.5  | 0.5  | 1    | 0.3  | 0.42      | 0.35    | 0.01   | 0.02    | 0.01   | 0.09      |      |      |      |      |      |      |
+  | ...      |      |      |      |      |           |         |        |         |        |           |      |      |      |      |      |      |
+  | Additive | 0.5  | 0.5  | 1    | 0.3  | 0.08      | 0.32    | 0.01   | 0.03    | 0.06   | 0.09      |      |      |      |      |      |      |
+
+  
+
+  
 
 ### Machine learning model building
 
@@ -124,6 +140,16 @@ Rscript 02_Association_summary.R \
 
 ```
 
+- the output of association module is like this table
+
+  | GeneID           | chr  | locus start | locus end | Z score | S.E. | $P_{TWAS}$ |
+  | ---------------- | ---- | ----------- | --------- | ------- | ---- | ---------- |
+  | *Zm00001d027230* | 1    | 44289       | 49837     | -18.23  | 0.35 | 8.02E-60   |
+  | *Zm00001d027231* | 1    | 50877       | 55716     | -9.40   | 0.97 | 1.06E-19   |
+  | ...              |      |             |           |         |      |            |
+  |                  |      |             |           |         |      |            |
+
+  
 
 ### Useful tools
 
