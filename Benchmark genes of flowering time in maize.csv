@@ -1,0 +1,67 @@
+ID,Type,Gene symbol,Description,reference
+Zm00001d000176,Positive,ZMCCT9,photoperiod response locus; confers later flowering in teosintes under longer day lengths; knockout mutant causes early flowering under long days,"Huang, C. et al. ZmCCT9 enhances maize adaptation to higher latitudes. PNAS 115, E334ﾨCE341 (2018)."
+Zm00001d002449,Positive,ZFL2,"zfl1 and zfl2 double mutants exhibit a disruption of floral organ identity and patterning, as well as defects in inflorescence architecture and in the vegetative to reproductive phase transition.","Bomblies, K. et al. Duplicate FLORICAULA/LEAFY homologs zfl1 and zfl2 control inflorescence architecture and flower patterning in maize. Development 130, 2385ﾨC2395 (2003)."
+Zm00001d003477,Positive,CRY2,-,"Ma, H. Flowering time: From photoperiodism to florigen. Current Biology 8, R690ﾨCR692 (1998)."
+Zm00001d006212,Positive,PRRH1,ortholog of sorghum CCT Flowering time,"Lai, X., Yan, L., Lu, Y. & Schnable, J. C. Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum. The Plant Journal 93, 843ﾨC855 (2018)."
+Zm00001d007949,Positive,ZAP1,-,"Mena, M., Mandel, M. A., Lerner, D. R., Yanofsky, M. F. & Schmidt, R. J. A characterization of the MADS-box gene family in maize. The Plant Journal 8, 845ﾨC854 (1995)."
+Zm00001d008826,Positive,GI1,homologous to Arabidopsis photoperiod gene gigantea,"Bendix, C., Mendoza, J. M., Stanley, D. N., Meeley, R. & Harmon, F. G. The circadian clock-associated gene gigantea1 affects maize developmental transitions. Plant, Cell & Environment 36, 1379ﾨC1390 (2013)."
+Zm00001d010752,Positive,ZCN8,"florigen activity: complements Arabidopsis FT mutants, promoting flowering at short days. Requires functional id1 gene.(Lazakis et al 2011)","Meng, X., Muszynski, M. G. & Danilevskaya, O. N. The FT-Like ZCN8 Gene Functions as a Floral Activator and Is Involved in Photoperiod Sensitivity in Maize. The Plant Cell 23, 942ﾨC960 (2011)."
+Zm00001d013259,Positive,ZMM15,-,"Danilevskaya, O. N. et al. Involvement of the MADS-Box Gene ZMM4 in Floral Induction and Inflorescence Development in Maize. Plant Physiology 147, 2054ﾨC2069 (2008)."
+Zm00001d013402,Positive,PHYA2,"red/far red light signal receptor; minor phytochrome A trancript in dark grown seedling leaf blade, sheath, mesocotyl. See also phyA1, phyB1, phyB2, phyC1, phyC2","Sheehan, M. J., Farmer, P. R. & Brutnell, T. P. Structure and Expression of Maize Phytochrome Family Homeologs. Genetics 167, 1395ﾨC1405 (2004)."
+Zm00001d016915,Positive,CRY1,-,"Simpson, G. G. & Dean, C. Arabidopsis, the Rosetta Stone of Flowering Time? Science 296, 285ﾨC289 (2002)."
+Zm00001d017176,Positive,COL3,Functions as a repressor of flowering,"Datta, S., Hettiarachchi, G. H. C. M., Deng, X.-W. & Holm, M. Arabidopsis CONSTANS-LIKE3 Is a pos Regulator of Red Light Signaling and Root Growth. The Plant Cell 18, 70ﾨC84 (2006)."
+Zm00001d017241,Positive,TOC2,Ortholog of Arabidopsis toc1,"Jackson, S. D. Plant responses to photoperiod. New Phytologist 181, 517ﾨC531 (2009)."
+Zm00001d018207,Positive,COP1,Arabidopsis ortholog: AT2G32950,"Jang, S. et al. Arabidopsis COP1 shapes the temporal pattern of CO accumulation conferring a photoperiodic flowering response. The EMBO Journal 27, 1277ﾨC1288 (2008)."
+Zm00001d020014,Positive,-,flowering time control protein FPA,"Cui, M. et al. Genetic Mapping of the Leaf Number above the Primary Ear and Its Relationship with Plant Height and Flowering Time in Maize. Front. Plant Sci. 8, (2017)."
+Zm00001d020364,Positive,-,Ortholog of Sorghum Early flowering 4,"Lai, X., Yan, L., Lu, Y. & Schnable, J. C. Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum. The Plant Journal 93, 843ﾨC855 (2018)."
+Zm00001d022613,Positive,DLF1,tall late plant with additional nodes and leaves at flowering; no apparent response to day length,"Muszynski, M. G. et al. delayed flowering1 Encodes a Basic Leucine Zipper Protein That Mediates Floral Inductive Signals at the Shoot Apex in Maize. Plant Physiology 142, 1523ﾨC1536 (2006)."
+Zm00001d023420,Positive,PEBP3,-,"Danilevskaya, O. N., Meng, X., Hou, Z., Ananiev, E. V. & Simmons, C. R. A Genomic and Expression Compendium of the Expanded PEBP Gene Family from Maize. Plant Physiology 146, 250ﾨC264 (2008)."
+Zm00001d026231,Positive,ZFL1,"zfl1 and zfl2 double mutants exhibit a disruption of floral organ identity and patterning, as well as defects in inflorescence architecture and in the vegetative to reproductive phase transition.","Bomblies, K. et al. Duplicate FLORICAULA/LEAFY homologs zfl1 and zfl2 control inflorescence architecture and flower patterning in maize. Development 130, 2385ﾨC2395 (2003)."
+Zm00001d028842,Positive,P1; MYBR102; MYBR91; P2,,
+Zm00001d028905,Positive,PHYB1,"phyB1 mutants have elongated mesocotyl under red light. Double mutant with phyB2 is pale, narrow with elongated leaf blades, elongated internodes, less anthocyanin in sheath tissues, and earlier flowering time.","Sheehan, M. J., Kennedy, L. M., Costich, D. E. & Brutnell, T. P. Subfunctionalization of PhyB1 and PhyB2 in the control of seedling and mature plant traits in maize. The Plant Journal 49, 338ﾨC353 (2007)."
+Zm00001d031662,Positive,COL16,-,"Hassidim, M., Harir, Y., Yakir, E., Kron, I. & Green, R. M. Over-expression of CONSTANS-LIKE 5 can induce flowering in short-day grown Arabidopsis. Planta 230, 481ﾨC491 (2009)."
+Zm00001d033680,Positive,D8,Dominant D8 plants resemble d1; extreme alleles not responsive to gibberellins.,"Thornsberry, J. M. et al. Dwarf8 polymorphisms associate with variation in flowering time. Nature Genetics 28, 286ﾨC289 (2001)."
+Zm00001d033799,Positive,PHYA1,"red/far red light signal receptor; major phytochrome C trancript in light and dark grown seedling leaf blade, sheath, mesocotyl. See also phyC2, phyA1, phyA2 phyB1, phyB2.","Sheehan, M. J., Farmer, P. R. & Brutnell, T. P. Structure and Expression of Maize Phytochrome Family Homeologs. Genetics 167, 1395ﾨC1405 (2004)."
+Zm00001d033859,Positive,KN1,dominant Kn1 plants have localized proliferation of tissue at vascular bundles on leaf,"Bolduc, N. et al. Unraveling the KNOTTED1 regulatory network in maize meristems. Genes Dev. 26, 1685ﾨC1690 (2012)."
+Zm00001d034038,Positive,PHYC1,"red/far red light signal receptor; major phytochrome C trancript in light and dark grown seedling leaf blade, sheath, mesocotyl. See also phyC2, phyA1, phyA2 phyB1, phyB2.","Sheehan, M. J., Farmer, P. R. & Brutnell, T. P. Structure and Expression of Maize Phytochrome Family Homeologs. Genetics 167, 1395ﾨC1405 (2004)."
+Zm00001d034045,Positive,ZMM4,"Locus designated and assigned to a transcription factor family by the GRASSIUS project (Yilmaz et al 2009) , which also provided the mappings to the B73_Reference Genome sequence v2 gene models.","Danilevskaya, O. N. et al. Involvement of the MADS-Box Gene ZMM4 in Floral Induction and Inflorescence Development in Maize. Plant Physiology 147, 2054ﾨC2069 (2008)."
+Zm00001d037565,Positive,GA2OX1,"Bolduc and Hake (Plant Cell 21:1647-58, 2009) identify this ga2ox as ga2ox1 by phylogeny. See Supplemental Figure 6. Comparison of syntenic regions containing ga2ox1 in different grasses. They also show that it is a direct target of KN1.","Bolduc, N. & Hake, S. The Maize Transcription Factor KNOTTED1 Directly Regulates the Gibberellin Catabolism Gene ga2ox1. The Plant Cell 21, 1647ﾨC1658 (2009)."
+Zm00001d039589,Positive,GI2,homologous to Arabidopsis photoperiod gene gigantea.,"Miller, T. A., Muslin, E. H. & Dorweiler, J. E. A maize CONSTANS-like gene, conz1, exhibits distinct diurnal expression patterns in varied photoperiods. Planta 227, 1377ﾨC1388 (2008)."
+Zm00001d042212,Positive,LDP1,"single copy leaf cDNA, csu838, similar to Arabidopsis luminidependens protein which regulates floral induction","van Nocker, S., Muszynski, M., Briggs, K. & Amasino, R. M. Characterization of a gene from Zea mays related to the Arabidopsis flowering-time gene LUMINIDEPENDENS. Plant Mol Biol 44, 107ﾨC122 (2000)."
+Zm00001d042315,Positive,MADS69,contributes to natural variation in flowering time in maize,"Liang, Y. et al. ZmMADS69 functions as a flowering activator through the ZmRap2.7-ZCN8 regulatory module and contributes to maize flowering time adaptation. New Phytologist 221, 2335ﾨC2347 (2019)."
+Zm00001d044705,Positive,PEBP1,-,"Danilevskaya, O. N., Meng, X., Hou, Z., Ananiev, E. V. & Simmons, C. R. A Genomic and Expression Compendium of the Expanded PEBP Gene Family from Maize. Plant Physiology 146, 250ﾨC264 (2008)."
+Zm00001d045735,Positive,CONZ1,homologous to photoperiod genes constans (co) from Arabiodopsis and heading date 1 (hd1) in rice.,"Miller, T. A., Muslin, E. H. & Dorweiler, J. E. A maize CONSTANS-like gene, conz1, exhibits distinct diurnal expression patterns in varied photoperiods. Planta 227, 1377ﾨC1388 (2008)."
+Zm00001d047632,Positive,PHYB2,"phyB2 mutant is early flowering. Double mutant with phyB1 is pale, narrow with elongated leaf blades and elongated internodes, and contains less anthocyanin in sheath tissues.","Sheehan, M. J., Farmer, P. R. & Brutnell, T. P. Structure and Expression of Maize Phytochrome Family Homeologs. Genetics 167, 1395ﾨC1405 (2004)."
+Zm00001d048474,Positive,MADS1,"transcripts detected in egg cells and invivo zygotes of maize, also expressed in synergids and antipodal cells. during flower development expressed in all ear spikelet organ primordia at intermediate stages","Mena, M., Mandel, M. A., Lerner, D. R., Yanofsky, M. F. & Schmidt, R. J. A characterization of the MADS-box gene family in maize. The Plant Journal 8, 845ﾨC854 (1995)."
+Zm00001d049543,Positive,CCA1,myb transcription factor - clock gene,"Wang, X. et al. Robust expression and association of ZmCCA1 with circadian rhythms in maize. Plant Cell Rep 30, 1261ﾨC1272 (2011)."
+Zm00001d050649,Positive,PEBP2,-,"Danilevskaya, O. N., Meng, X., Hou, Z., Ananiev, E. V. & Simmons, C. R. A Genomic and Expression Compendium of the Expanded PEBP Gene Family from Maize. Plant Physiology 146, 250ﾨC264 (2008)."
+Zm00001d051114,Positive,TOC1,Ortholog of Arabidopsis toc1,"Jin, M. et al. ZmCOL3, a CCT gene represses flowering in maize by interfering with the circadian clock and activating expression of ZmCCT. Journal of Integrative Plant Biology 60, 465ﾨC480 (2018)."
+Zm00001d028216,Positive,DRL1,mutants have perturbed floral and inflorescence meristems as well as droopy leaves with increased angle,"Strable, J. & Vollbrecht, E. Maize YABBY genes drooping leaf1 and drooping leaf2 regulate floret development and floral meristem determinacy. Development 146, (2019)."
+Zm00001d048083,Positive,DRL2,mutant enhances the phenotype of ifa1 mutants (a.k.a. drl1),"Strable, J. & Vollbrecht, E. Maize YABBY genes drooping leaf1 and drooping leaf2 regulate floret development and floral meristem determinacy. Development 146, (2019)."
+Zm00001d006236,,MYB31,postponed flowering time in three environments,
+Zm00001d024126,,,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d013402,,,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d028905,,PHYB1,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d033799,,,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d013262,,PHYC2,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d045944,,CRY2,encode phytochrome A/B/C and photoreceptor cryptochrome proteins.,
+Zm00001d021291,,PRR95a,,
+Zm00001d006212,,PRR96b,,
+Zm00001d017241,,TOC1b,,
+Zm00001d034313,,,,
+Zm00001d006918,,HAM101,,
+Zm00001d010625,, PCO132911,,
+Zm00001d011748,,MADS43,,
+Zm00001d017193,,,,
+Zm00001d032894,,PZA00381,newly FT pathway,
+Zm00001d032922,,ID1,,
+Zm00001d010752,,PEBP8,,
+Zm00001d010987,,RAP2,,
+Zm00001d024909,,CCT1,,
+Zm00001d000176,,CCT2,,
+Zm00001d020014,,,,
+Zm00001d042315,,,,
+Zm00001d048474,,,,
+Zm00001d024594,,,,
+Zm00001d018515,,,,
+Zm00001d017703,,,,
