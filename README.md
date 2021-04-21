@@ -1,6 +1,5 @@
 # <center>**TWAS-ML**: An integrated R toolkit for plant transcriptome-wide association study</center>
-<img src="https://github.com/RayLing88/TWAS-ML/blob/main/image/combine.png" title="R logo" width="320" height="150" /> 
-
+<img src="https://github.com/RayLing88/TWAS-ML/tree/main/image/combine.png" title="R logo" style="zoom:50%;" />
 
 ### Brief introduction
 TWAS-ML is a machine learning-based integrated R toolkit that aims to perfom the plant transcriptome -wide association study (TWAS). This toolkit contains a comprehensive collection of functions required for TWAS data quality control, simulation study, gene expression predictive model building, association study, visualizing for TWAS result. TWAS-ML also takes advantage of machine learning technologies for gene expression levels prediction, with high prediction accuracy, using several ML algorithm such as random forest (RF), support vector machine (SVM), and neural network (NN). 
@@ -158,18 +157,18 @@ Rscript 02_Association_summary.R \
 
 - this module can also visualize TWAS result
 
-   ![](https://github.com/RayLing88/TWAS-ML/blob/main/image/manhatan.png 'manhatan plot')
+   ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/manhatan.png 'manhatan plot')
 
 - locus zoom plot (Zhu et al., 2016)
 
-  ![](https://github.com/RayLing88/TWAS-ML/blob/main/image/locus_zoom.png 'locus zoom')
+  ![](https://github.com/RayLing88/TWAS-ML/tree/main/image/locus_zoom.png 'locus zoom')
 
 ### Source codes availability
 
    The source codes of TWAS-ML are freely available at [TWAS-ML](<https://github.com/RayLing88/TWAS-ML>)
 ### How to access help
 * If users encounter any bugs or issues, feel free to leave a message at Github [issues](<https://github.com/cma2015/PEA/issues>). We will try our best to deal with all issues as soon as possible.
-* In addition, if any suggestions are available, feel free to contact: __*Lei Ling*__ <linglei@nwafu.edu.cn> or __*Chuang Ma*___ <chuangma2006@gmail.com>
+* In addition, if any suggestions are available, feel free to contact: __*Lei Ling*__ <linglei@nwafu.edu.cn> .
 
 ### References
   * Gusev, A., Ko, A., Shi, H. *et al.* Integrative approaches for large-scale transcriptome-wide association studies. *Nat Genet* **48,** 245–252 (2016). https://doi.org/10.1038/ng.3506

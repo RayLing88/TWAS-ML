@@ -1,5 +1,5 @@
 # ===============================================================================
-# Author: Futao Zhang, Zhihong Zhu
+### this R scirpt is from Author (Futao Zhang, Zhihong Zhu)
 # Date started: 18/03/2016
 # Date last updated: 24/03/2017
 # R script to draw regional plot and effect size plot for SMR analysis
